@@ -1,4 +1,3 @@
-# lab-1-ya-misterMak
-lab-1-ya-misterMak created by GitHub Classroom
+# MY LABs for IT-2018
 
 I am MIRKAMOL KHAMIDOV. My ID: u1610142.
