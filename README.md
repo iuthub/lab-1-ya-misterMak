@@ -1,3 +1,3 @@
-# MY LABs for IT-2018
+# Lab 1
 
 I am MIRKAMOL KHAMIDOV. My ID: u1610142.
